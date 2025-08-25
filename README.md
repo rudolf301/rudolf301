@@ -26,6 +26,8 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=flat&logo=fastapi&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+
 
 #### 🤖 ML & AI
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)

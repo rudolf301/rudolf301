@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <h3>My tech tools I use:</h3>
 <p>
-![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white)
+https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-red?style=flat&logo=pytorch&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-green?style=flat&logo=django&logoColor=white)

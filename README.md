@@ -32,6 +32,9 @@ Here are some ideas to get you started:
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-blue?style=flat&logo=flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=flat&logo=laravel&logoColor=white)
+![Java](https://img.shields.io/badge/Java-red?style=flat&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777bb3?style=flat&logo=php&logoColor=white)
+
 
 ![Pygame](https://img.shields.io/badge/Pygame-lightgrey?style=flat&logo=python&logoColor=white)
 
